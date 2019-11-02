@@ -7,7 +7,7 @@ import re, requests, time
 #PLACE YOUR PROXIES IN THE 'input.txt' file
 
 print("---PROXY CHECKER w/ timeout checker---")
-print("---made by Maxe ---")
+print("---made by Maxe | @SOLEB0X ---")
 print("____________________")
 
 website = input("Type/Paste the site we will check: ( like https://www.footpatrol.com) ")
